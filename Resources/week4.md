@@ -11,6 +11,10 @@
 - [SVM part 3 large margin math - Andrew Ng](https://www.youtube.com/watch?v=QKc3Tr7U4Xc)
 - [SVM part 4 kernels I - Andrew Ng](https://www.youtube.com/watch?v=mTyT-oHoivA)
 - [SVM part 5 kernels II - Andrew Ng](https://www.youtube.com/watch?v=XfyR_49hfi8)
+- [SVM part 1 - ISLR](https://www.youtube.com/watch?v=m59UOo5jAFU&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw)
+- [SVM part 2 - ISLR](https://www.youtube.com/watch?v=_TR28WOymkE&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=2)
+- [SVM part 3 - ISLR](https://www.youtube.com/watch?v=ooYwHNvH-YU&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=3)
+- [SVM part 4 - ISLR](https://www.youtube.com/watch?v=6EFgNdwpB7s&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=4)
 
 **Decision tree:**
 - [Decision tree classification - Normalized Nerd](https://www.youtube.com/watch?v=ZVR2Way4nwQ)

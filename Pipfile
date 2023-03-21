@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+scikit-learn = "*"
+ipykernel = "*"
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+black = "*"
+seaborn = "*"
+tensorflow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

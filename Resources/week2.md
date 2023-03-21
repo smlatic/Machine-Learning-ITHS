@@ -48,6 +48,7 @@ References for lecture - Regularized linear models
 - [Cross validation](https://machinelearningmastery.com/k-fold-cross-validation/)
 - [Scoring parameter sklearn](https://scikit-learn.org/stable/modules/model_evaluation.html)
 - [ISLRv2 pp 198-205](https://www.statlearning.com/)
+- [Multicollinearity - wikipedia](https://en.wikipedia.org/wiki/Multicollinearity)
 
 ---
 ## Exercises :running:
