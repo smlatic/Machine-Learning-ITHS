@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.DS_Store
+LAB/Data_Lab/movies.csv
+LAB/Data_Lab/ratings.csv
