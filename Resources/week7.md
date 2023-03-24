@@ -2,12 +2,12 @@
 
 [:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
 
+---
 ## Video guides :video_camera:
 - [What is neural network - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)
+- [Neural networks explained in 5 minutes - IBM](https://www.youtube.com/watch?v=jmmW0F0biz0)
 
-## Lecture notes :book:
-
-
+---
 ## Theory :book:
 - [Neural networks - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [Percecptron - wikipedia](https://en.wikipedia.org/wiki/Perceptron)
@@ -16,6 +16,7 @@
 - [Multilayer perceptron (MLP) - wikipedia](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 - [Rectifier (neural networks) - wikipedia](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
 
+---
 ## Exercises :running:
 - work with the study questions 
 - work with mock exam
